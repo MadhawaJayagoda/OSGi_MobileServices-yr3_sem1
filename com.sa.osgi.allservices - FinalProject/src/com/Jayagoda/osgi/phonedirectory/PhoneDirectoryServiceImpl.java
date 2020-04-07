@@ -8,9 +8,8 @@ public class PhoneDirectoryServiceImpl implements PhoneDirectoryService {
 	
 	/**
 	 * 
-	 * Student Registration Number : IT17184304
 	 * Student Name : Jayagoda N.M.
-	 * Software Engineering Weekday batch ( Y3S1.20.1 )
+	 * Software Engineering Weekday batch
 	 * 
 	 */
 
