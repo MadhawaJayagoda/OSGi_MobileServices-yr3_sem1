@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGI_AllServiceSubscriber
+Bundle-SymbolicName: OSGI_AllServiceSubscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: osgi_allservicesubscriber.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.Hansani.osgi.feedback,
+ com.Jayagoda.osgi.phonedirectory,
+ com.Thilini.osgi.broadband,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
